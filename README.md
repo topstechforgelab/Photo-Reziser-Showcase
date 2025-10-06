@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/your-username/PhotoResizer/blob/main/logo.png?raw=true" width="150" alt="Photo Resizer Logo"/>
+  <img src="https://github.com/topsforgetechlab/topsforgetechlab/blob/main/logo.png?raw=true" width="150" alt="Tops ForgeTech Lab Logo"/>
 </p>
 
 <h1 align="center">🖼️ Photo Resizer</h1>
